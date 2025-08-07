@@ -26,10 +26,10 @@ This repository is a structured guide and hands-on resource for mastering **NumP
 ```bash
 git clone https://github.com/EHyashu/Numpy-and-Pandas.git
 
-2. Install requirements:
+##2. Install requirements:
 pip install -r requirements.txt
 
-3. Open .ipynb notebook in Jupyter or VS code:
+##3. Open .ipynb notebook in Jupyter or VS code:
 
 
 TOOLS USED
